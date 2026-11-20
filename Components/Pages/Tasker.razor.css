@@ -1,0 +1,9 @@
+﻿.task {
+    font-size: 2em;
+    border: 5px solid var(--bs-danger-bg-subtle);
+    background: #e0eafc;
+    background: -webkit-linear-gradient(to right, #cfdef3, #e0eafc);
+    background: linear-gradient(to right, #cfdef3, #e0eafc);
+    border-radius: 10px;
+    min-width: 50%;
+}
